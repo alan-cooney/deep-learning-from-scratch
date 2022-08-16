@@ -1,3 +1,3 @@
 # Deep Learning from Scratch
 
-Implementation of key deep learning archtectures.
+Implementation of key deep learning architectures.
